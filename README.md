@@ -1,5 +1,5 @@
 # Grunt Setup
-
+> Minifies HTML, CSS, JS.
 ## 1. Install packages
 
 ```
