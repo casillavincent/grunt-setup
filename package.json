@@ -1,0 +1,27 @@
+{
+  "name": "vincents-grunt-setup",
+  "version": "1.0.0",
+  "description": "A basic Grunt configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casillavincent/grunt-setup.git"
+  },
+  "author": "Vincent Casilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casillavincent/grunt-setup/issues"
+  },
+  "homepage": "https://github.com/casillavincent/grunt-setup#readme",
+  "devDependencies": {
+    "grunt": "^1.4.0",
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
