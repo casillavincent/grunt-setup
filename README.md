@@ -1,6 +1,6 @@
 # Grunt Setup
-
-### 1. Install packages
+> Minifies HTML, CSS, JS.
+## 1. Install packages
 
 ```
 $ npm init -y
